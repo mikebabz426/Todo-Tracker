@@ -106,3 +106,25 @@ button:hover {
 	flex: 1;
 	background-color: #f8d4df;
 }
+.px-0 {
+	margin-left: 0rem;
+}
+
+.px-1 {
+	margin-left: 2rem;
+}
+.px-2 {
+	margin-left: 4rem;
+}
+.px-3 {
+	margin-left: 6rem;
+}
+.px-4 {
+	margin-left: 8rem;
+}
+.px-5 {
+	margin-left: 10rem;
+}
+.px-6 {
+	margin-left: 12rem;
+}
